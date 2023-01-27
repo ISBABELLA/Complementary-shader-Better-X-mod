@@ -1,4 +1,4 @@
 # Complementary-shader-Better-X-mod
-SHADER EDIT FOR BETTER END
-Credits:
+SHADER EDIT FOR BETTER X MOD
+#Credit Discord: 
 
